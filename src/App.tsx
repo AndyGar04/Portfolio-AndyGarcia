@@ -6,6 +6,7 @@ import { Inicio } from './sections/Inicio';
 import { Navbar } from './components/navbar';
 import { Footer } from './components/footer';
 
+//Modularizacion de secciones y componentes.
 const App: React.FC = () => {
 
   return (
