@@ -1,8 +1,8 @@
-import { Trayectoria } from './sections/Trayectoria';
-import { Contacto } from './sections/Contacto';
-import { Proyectos } from './sections/Proyectos';
-import { SobreMi } from './sections/SobreMi';
-import { Inicio } from './sections/Inicio';
+import { Trayectoria } from './sections/trayectoria';
+import { Contacto } from './sections/contacto';
+import { Proyectos } from './sections/proyectos';
+import { SobreMi } from './sections/sobreMi';
+import { Inicio } from './sections/inicio';
 import { Navbar } from './components/navbar';
 import { Footer } from './components/footer';
 
