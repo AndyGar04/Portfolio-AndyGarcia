@@ -56,7 +56,7 @@ export const Inicio: React.FC = () => {
                 <div className="bg-white dark:bg-slate-800 p-4 pb-8 rounded-[2.5rem] shadow-2xl border border-slate-200 dark:border-slate-700 max-w-sm w-full transform rotate-1 hover:rotate-0 transition-transform duration-500">
                 <div className="aspect-[4/5] rounded-[2rem] overflow-hidden bg-slate-200 dark:bg-slate-900 relative group">
                     <img 
-                    src="/FotoGit.jpg" 
+                    src="/FOTO-CV-02.png" 
                     alt="Andy Garcia" 
                     className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500" 
                     />
